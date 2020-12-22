@@ -52,11 +52,11 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/A187ID/AR15BOT
-> cd AR15BOT
+> git clone https://github.com/bagas05/BagasF05Bot-All-Admin
+> cd BagasF05Bot-All-Admin
 > bash install.sh
 > node index js
-> Tinggal scan kode qr yeee...done
+> Tinggal scan QR Code nya Done :)
 ```
 
 ## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
