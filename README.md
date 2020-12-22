@@ -7,10 +7,10 @@
 
 
 <p align="center">
-<a href="#"><img title="👾AR15BOT👾" src="https://img.shields.io/badge/AR15BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="🌟 BagasF05Bot 🌟" src="https://img.shields.io/badge/AR15BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/A187ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARIS187 ID-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/A187ID"><img title="Pembuat Script Asli/Author (A187ID)" src="https://img.shields.io/badge/AUTHOR-ARIS187 ID-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/AR15BOT/badge/main"></a>
@@ -38,13 +38,13 @@ SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA 
 ### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
 Siapin alat dan bahannya.
 ```bash
-> niat
-> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
-> jaringan internet kenceng,kuota+
-> penyimpanan yang memadai
-> aplikasi whatsapp
-> aplikasi termux
-> kopi+rokok ;v
+> 🔥 Niat 🔥
+> 💦 2 Device 💦 (1 buat jalanin SC, 1 u/ scan QR Code)
+> ⚡️ Jaringa,Internet kenceng,Kuota banyak ⚡️
+> ❄️ Penyimpanan pada Device harus besar (Memadai)
+> 🛎 Tentu saja WhatsApp 🛎
+> 📝 Termux buat jalanin SCnya 📝
+> ✏️ Instirahat yang cukup
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
@@ -98,21 +98,23 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 |       ✅       | wait                          |
 |            info/donate/creator                  |
 
-Ket: Aktiv 24 jam
+Ket: Aktiv 24 jam (Tergantung jaringan)
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 👾AR15BOT👾`](https://saweria.co/aris187id)
+* [`Donasi 🌟 BagasF05Bot 🌟`](OVO : 082233046766)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+* [`Youtube Admin`](Kosong)
+* [`Instagram Admin`](https://instagram.com/bagas_firmansyah)
+* [`WhatsApp Admin `](https://wa.me/+6282233046766)
 * [`Group WhatsApp `](https://chat.whatsapp.com/DSSHmG2KjKJLoFp9B9mkVs)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
+
+* [`A187ID`](https://github.com/A187ID/AR15BOT)
 
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
