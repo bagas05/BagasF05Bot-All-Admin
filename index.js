@@ -751,7 +751,7 @@ client.on('group-participants-update', async (anu) => {
 					}
 				case 'clone':
 					if (!isGroup) return reply(mess.only.group)
-					if (!isOwner) return reply('kamu 𝙨𝙞𝙖𝙥𝙖?') 
+					if (!isOwner) return reply('Kamu 𝙨𝙞𝙖𝙥𝙖?') 
 					if (args.length < 1) return reply('𝘁𝗮𝗴 𝘁𝗮𝗿𝗴𝗲𝘁 𝘆𝗮𝗻𝗴 𝗺𝗮𝘂 𝗱𝗶 𝗰𝗹𝗼𝗻𝗲!!!')
 					if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('Tag cvk')
 					mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid[0]
