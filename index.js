@@ -115,7 +115,7 @@ client.on('group-participants-update', async (anu) => {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `𝗛e𝗹𝗹𝗼 @${num.split('@')[0]}\ID :🌛 S𝗲𝗹𝗮𝗺𝗮𝘁 𝗱𝗮𝘁𝗮𝗻𝗴 𝗱𝗶 𝗴𝗿𝗼𝘂𝗽 🌜,Spanish : Bienvenido al grupo ,EN : welcome to the group *${mdata.subject}* ID: ☃️ semoga 𝗯𝗲𝘁𝗮𝗵 𝗯𝗲𝘁𝗮𝗵 𝘆𝗮𝗵 𝗱𝗶𝘀𝗶𝗻𝗶☃️,Spanish : Espero que te sientas como en casa aqui,EN : I hope you feel at home here`
+				teks = `𝗛e𝗹𝗹𝗼 @${num.split('@')[0]}\(っ◔◡◔)っ ♥ Selamat Datang Di grup ♥*${mdata.subject}*✴ 🤖 𝒮𝒾𝓁𝒶𝒽𝓀𝒶𝓃 𝓅𝑒𝓇𝓀𝑒𝓃𝒶𝓁𝓀𝒶𝓃 𝒹𝒾𝓇𝒾 𝒦𝒶𝓂𝓊,𝒶𝑔𝒶𝓇 ☯𝓇𝒶𝓃𝑔 𝒹𝒾𝑔𝓇𝓊𝓅 𝓂𝑒𝓃𝑔𝑒𝓃𝒶𝓁 𝓀𝒶𝓂𝓊&𝒮𝑒𝓂💗𝑔𝒶 𝒷𝑒𝓉𝒶𝒽 𝒹𝒾𝑔𝓇𝓊𝓅 𝓎𝒶𝒶𝒽𝒽  🤖 ✴`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
@@ -125,7 +125,7 @@ client.on('group-participants-update', async (anu) => {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `ID : Yeay satu orang telah keluar,Spanish : Sí, una persona se ha ido,EN : Yeay one person has left  @${num.split('@')[0]} ID : Hati-hati dijalan&Jangan balik lagi,Spanish : Ten cuidado en la carretera. No vuelvas más,EN : Be careful on the road. Don't come back again`
+				teks = `👤 𝕐𝕖𝕒𝕒𝕪𝕪 𝟙 𝕆𝕣𝕒𝕟𝕘 𝕥𝕖𝕝𝕒𝕙 𝕞𝕖𝕟𝕚𝕟𝕘𝕘𝕒𝕝𝕜𝕒𝕟 𝕘𝕣𝕦𝕡 𝕦𝕟𝕥𝕦𝕜 𝕤𝕖𝕝𝕒𝕞𝕒𝕟𝕪𝕒 ☠️ @${num.split('@')[0]} 🧷 𝒯𝒾𝓉𝒾𝓅 𝑔𝑜𝓇𝑒𝓃𝑔𝒶𝓃+𝑀𝒾𝓃𝓊𝓂𝒶𝓃 (🍪🍻) & 𝒥𝒶𝓃𝑔𝒶𝓃 𝒷𝒶𝓁𝒾𝓀 𝓁𝒶𝑔𝒾 𝓎𝒶𝒶 𝐵𝑒𝒷𝒶𝓃 𝒢𝓇𝓊𝓅 🗿`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			}
